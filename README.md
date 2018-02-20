@@ -55,3 +55,9 @@ As a user,
 So that future users can see the quality of services provided,
 I would like to be able to leave reviews for other users.
 ```
+
+```Sam, Leigh-Ann and Jennifer
+Here are 2 diagrams to demonstrate the connections between the models: user, skills and jobs:
+https://i.imgur.com/oxbfFr6.jpg
+https://i.imgur.com/LQE7VZR.jpg
+```
