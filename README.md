@@ -8,6 +8,24 @@ rake db:migrate RAILS_ENV=test
 rspec
 ```
 
+To run
+======
+```
+rvm install ruby-2.2.3
+bundle install
+createdb sos-fixit-rails-api_development
+rake db:migrate RAILS_ENV=development
+rails server
+.
+.
+.
+...and some other stuff...
+.
+.
+.
+http://localhost:3000/welcome
+```
+
 ## User Stories:
 
 ###User Story 1:
